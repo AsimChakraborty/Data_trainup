@@ -1,0 +1,24 @@
+label,sentence,clean_sentence,clean_data
+ntr,"ntr  amra sobhai raji!!!
+",sobhai raji,sobhai raji
+ntr,"ntr  ajke ki amra jabo?
+",ajke jabo,ajke jabo
+ntr,"ntr  ajke ki argentine jitbe??
+",ajke argentine jitbe,ajke argentine jitbe
+pos,"pos  amra sobhai valo achi
+",sobhai valo achi,sobhai valo achi
+pos,"pos  ajke valo kaj hoyche
+",ajke valo kaj hoyche,ajke valo kaj hoyche
+pos,"pos  ekjon bangladeshi hisabe ami gorbitho
+",bangladeshi hisabe gorbitho,bangladeshi hisabe gorbitho
+neg,"neg  india re kau maira la
+",india kau maira la,india kau maira la
+neg,"neg  chore chore masthotho bhai
+",chore chore masthotho bhai,chore chore masthotho bhai
+neg,"neg  pic to dili na hala kmne kortam
+",pic dili na hala kmne kortam,pic dili na hala kmne kortam
+pos,"pos  taskin re rhakr jonno dhonnobhad.
+",taskin rhakr jonno dhonnobhad,taskin rhakr jonno dhonnobhad
+neg,"neg  uni ekta chor,batpar.
+",uni ekta chorbatpar,uni ekta chorbatpar
+neg,neg  lok ta onk karp,lok onk karp,lok onk karp
