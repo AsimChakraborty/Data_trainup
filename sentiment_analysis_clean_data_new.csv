@@ -1,0 +1,244 @@
+label,sentence,clean_sentence,clean_data
+ntr,"ntr  amra sobhai raji!!!
+",sobhai raji,sobhai raji
+ntr,"ntr  ajke ki amra jabo?
+",ajke jabo,ajke jabo
+ntr,"ntr  ajke ki argentine jitbe??
+",ajke argentine jitbe,ajke argentine jitbe
+pos,"pos  amra sobhai valo achi
+",sobhai valo achi,sobhai valo achi
+pos,"pos  ajke valo kaj hoyche
+",ajke valo kaj hoyche,ajke valo kaj hoyche
+pos,"pos  ekjon bangladeshi hisabe ami gorbitho
+",bangladeshi hisabe gorbitho,bangladeshi hisabe gorbitho
+neg,"neg  india re kau maira la
+",india kau maira la,india kau maira la
+neg,"neg  chore chore masthotho bhai
+",chore chore masthotho bhai,chore chore masthotho bhai
+neg,"neg  pic to dili na hala kmne kortam
+",pic dili na hala kmne kortam,pic dili na hala kmne kortam
+pos,"pos  taskin re rhakr jonno dhonnobhad.
+",taskin rhakr jonno dhonnobhad,taskin rhakr jonno dhonnobhad
+neg,"neg  uni ekta chor,batpar.
+",uni ekta chorbatpar,uni ekta chorbatpar
+neg,"neg  lok ta onk karp
+",lok onk karp,lok onk karp
+ntr,"ntr  Cashback pai nai kan nagad a
+",cashback nagad,cashback nagad
+ntr,"ntr  Ajk o ki mystery box er offer thakbe
+",ajk mystery offer thakbe,ajk mystery offer thakbe
+pos,"pos  Love daraz
+",love daraz,love daraz
+ntr,"ntr  13-12-22 nagad/bkash cash back ace?
+",nagadbkash cash back ace,nagadbkash cash back ace
+ntr,"ntr  daraz app a grameenphone a 122 taka recharge option /amount kothayy kivhbe ?
+",daraz app grameenphone taka recharge option amount kothayy kivhbe,daraz app grameenphone taka recharge option amount kothayy kivhbe
+pos,"pos  Tou up offer chai?
+",tou up offer chai,tou up offer chai
+neg,"neg  Amar to 12 12 miss
+",amar miss,amar miss
+ntr,"ntr  12, 12 order offer ki cash on delivery te pawa jabe?
+",order offer cash delivery pawa jabe,order offer cash delivery pawa jabe
+neg,"neg  Kon baler misty box?
+",baler misty,baler misty
+neg,"neg  58 theke try Kore o pelam na
+",theke try kore pelam na,theke try kore pelam na
+pos,"pos  Er modde lekha 4theke 5 ta
+",modde lekha theke,modde lekha theke
+neg,"neg  sme payment krte giye asb
+",sme payment giye asb,sme payment giye asb
+ntr,"ntr  2 ta ki dibe?
+",dibe,dibe
+ntr,"ntr  Ai tar mane ki
+",mane,mane
+pos,"pos  Ajkei ki last date silo
+",ajkei last date silo,ajkei last date silo
+neg,"neg  Ata ki 1 id diye ekbar er besi dey na mystery box?? Klk 1 ta paisi.....ajk o dhuksi Buy now te dile ase na 
+",id diye ekbar besi dey na mystery paisiajk dhuksi buy now dile ase na,id diye ekbar besi dey na mystery paisiajk dhuksi buy now dile ase na
+neg,"neg  Link a giye order kora jacchena
+",link giye order jacchena,link giye order jacchena
+pos,"pos  Ami surprise box kinsi delivery fee free silo alhumdulillah nisi but mystery box nite pari nai
+",surprise kinsi delivery fee free silo alhumdulillah nisi mystery nite pari,surprise kinsi delivery fee free silo alhumdulillah nisi mystery nite pari
+neg,"neg  4:55 theke dhukar try korci taw ekaw pailam na
+",theke dhukar try korci taw ekaw pailam na,theke dhukar try korci taw ekaw pailam na
+pos,"pos  5 second er moddy stock out
+",moddy stock out,moddy stock out
+ntr,"ntr  Arr kobe dibe mistry box
+",kobe dibe mistry,kobe dibe mistry
+neg,"neg  Parlam na aiber o
+",parlam na aiber,parlam na aiber
+neg,"neg  Pai na
+",na,na
+neg,"neg  ami pai ni vai
+",ni,ni
+neg,"neg  Allah go mb nai
+",mb,mb
+neg,"neg  Order kora jay na kno
+",order jay na,order jay na
+neg,"neg  Order nisce na keno
+",order nisce na,order nisce na
+neg,"neg  Delivery charges onak...to asob niya ar lave nai
+",delivery charges onakto asob niya lave,delivery charges onakto asob niya lave
+neg,"neg  a mestry box kawo 12-14 ta koira order kory, ar kawo pay na
+",mestry kawo koira order kory kawo pay na,mestry kawo koira order kory kawo pay na
+pos,"pos  Life er fast time pailam
+",life fast time pailam,life fast time pailam
+pos,"pos  80 tk lagse mystry box
+",tk lagse mystry,tk lagse mystry
+ntr,"ntr  Dekha jak ki dey
+",dekha jak dey,dekha jak dey
+ntr,"ntr  Ata kalker da
+",kalker,kalker
+pos,"pos  Ajke pailam kalkeo paici
+",ajke pailam kalkeo paici,ajke pailam kalkeo paici
+pos,"pos  1 ta done
+",done,done
+pos,"pos  Akta mystery box pelam
+",akta mystery pelam,akta mystery pelam
+pos,"pos  Paisi aj
+",paisi,paisi
+ntr,"ntr  Payment korar somoi giye kahini suru
+",payment korar somoi giye kahini suru,payment korar somoi giye kahini suru
+neg,"neg  Faltu..Ordero hoy na
+",faltuordero hoy na,faltuordero hoy na
+pos,"pos  alhamdulillaaaahhh dui ta order korte perechi.. dekha jak ki pai...
+",alhamdulillaaaahhh dui order korte perechi dekha jak,alhamdulillaaaahhh dui order korte perechi dekha jak
+neg,"neg  Dhur faltu akta jinis..??
+",dhur faltu akta jinis,dhur faltu akta jinis
+neg,"neg  Ordar korte 1 second o somoy paina..??
+",ordar korte somoy paina,ordar korte somoy paina
+ntr,"ntr  Amon hole kivabe hobe..??
+",amon hole kivabe hobe,amon hole kivabe hobe
+ntr,"ntr  Ki vai etotaratari sesh hoi kmne matro 5 second e sesh hoiye gelo
+",etotaratari sesh hoi kmne matro sesh hoiye gelo,etotaratari sesh hoi kmne matro sesh hoiye gelo
+neg,"neg  aj o pailam na
+",pailam na,pailam na
+neg,"neg  Matro 5 second a ses what bai
+",matro ses,matro ses
+neg,"neg  10 sec ses ajo prlam nh click krte krte ses
+",sec ses ajo prlam nh ses,sec ses ajo prlam nh ses
+neg,"neg  Shaawar box kinar purbei shes hoy sob somoy
+",shaawar purbei shes hoy sob somoy,shaawar purbei shes hoy sob somoy
+neg,"neg  Shawwar box
+",shawwar,shawwar
+ntr,"ntr  Ê1 minutes ai ses
+",ê minutes ses,ê minutes ses
+ntr,"ntr  4ta bajar agey ses
+",bajar agey ses,bajar agey ses
+pos,"pos  apnara emon korte paren na,,,4/5 pojonto oder,,khula thakbe,taepor,,r oder diya jabe na mistery box rr emon hole koto valo hoto sobai peto
+",apnara emon korte paren na pojonto oderkhula thakbetaeporr oder diya jabe na mistery emon hole valo hoto sobai peto,apnara emon korte paren na pojonto oderkhula thakbetaeporr oder diya jabe na mistery emon hole valo hoto sobai peto
+ntr,"ntr  Delivery charge dite Hobe ki ?
+",delivery charge dite hobe,delivery charge dite hobe
+neg,"neg  Kalke chesta korlam but pai ni 
+",kalke chesta korlam ni,kalke chesta korlam ni
+ntr,"ntr  Khali box dey naki???
+",khali dey naki,khali dey naki
+pos,"pos  Ajk Try koris aktu pore e...
+",ajk try koris aktu pore,ajk try koris aktu pore
+pos,"pos  insha'Allah pabi
+",inshaallah pabi,inshaallah pabi
+neg,"neg  Mystery box er mystery holo sob return product baje quality product
+",mystery mystery holo sob return product baje quality product,mystery mystery holo sob return product baje quality product
+pos,"pos  dam koto
+",dam,dam
+ntr,"ntr  Apnara lekhen to 4 to 5 ta kintu 5 minit a sesh hoye jai stok
+",apnara lekhen kintu minit sesh hoye jai stok,apnara lekhen kintu minit sesh hoye jai stok
+ntr,"ntr  Kto takar eta?
+",kto takar eta,kto takar eta
+neg,"neg  I fUck your box
+",i fuck your,i fuck your
+pos,"pos  Kivabe pabo
+",kivabe pabo,kivabe pabo
+neg,"neg  Klk Amr mystery box cancel kre dise kno
+",amr mystery cancel kre dise,amr mystery cancel kre dise
+neg,"neg  dukkhito je Mystery Box order korte jeye apnake shomosshar shommukhin hote hoyeche.
+",dukkhito mystery order korte jeye apnake shomosshar shommukhin hote hoyeche,dukkhito mystery order korte jeye apnake shomosshar shommukhin hote hoyeche
+ntr,"ntr  Ajkar tar dam koto??
+",ajkar dam,ajkar dam
+pos,"pos  Kalky akta kinsi ajky try korbo dekhi
+",akta kinsi ajky try korbo dekhi,akta kinsi ajky try korbo dekhi
+pos,"pos  1 min a Stock out hoye jay
+",min stock out hoye jay,min stock out hoye jay
+neg,"neg  Stock thake na
+",stock thake na,stock thake na
+ntr,"ntr  Ajke koto tkr
+",ajke tkr,ajke tkr
+pos,"pos  Mystery box e ki thake
+",mystery thake,mystery thake
+ntr,"ntr  Ajk koytay dibe misty box
+",ajk koytay dibe misty,ajk koytay dibe misty
+pos,"pos  Kalke 1ta niyeci....but ekn technic paici kivabe druto koyekta neya jay
+",kalke niyecibut technic paici kivabe druto koyekta neya jay,kalke niyecibut technic paici kivabe druto koyekta neya jay
+ntr,"ntr  Ajk koto takar mystery box??
+",ajk takar mystery,ajk takar mystery
+ntr,"ntr  mustry box 2 minute a out of stock hoye jai
+",mustry minute out of stock hoye jai,mustry minute out of stock hoye jai
+pos,"pos  1 ta piasi
+",piasi,piasi
+neg,"neg  Shob fake. Ai mystery box tarai pai jara youtube a mystery box review kore r keo pai na shob shajano mone hoi
+",shob fake mystery tarai jara youtube mystery review kore keo na shob shajano mone hoi,shob fake mystery tarai jara youtube mystery review kore keo na shob shajano mone hoi
+pos,"pos  Vai delivery charge ekto off dile valo hoy
+",delivery charge ekto off dile valo hoy,delivery charge ekto off dile valo hoy
+pos,"pos  Vai kew aktu step by step dakhai diben kivabe pawa jai
+",kew aktu dakhai diben kivabe pawa jai,kew aktu dakhai diben kivabe pawa jai
+neg,"neg  ba*er mystery box....ho*o mara mystery box
+",baer mystery boxhoo mara mystery,baer mystery boxhoo mara mystery
+neg,"neg  daraz mane batfari
+",daraz mane batfari,daraz mane batfari
+neg,"neg  Bal dise sylhet area te day na
+",bal dise sylhet area day na,bal dise sylhet area day na
+neg,"neg  Eta niyar niyom ektu bolben?? Eksathe koita niya jabe???
+",eta niyar niyom ektu bolben eksathe koita niya jabe,eta niyar niyom ektu bolben eksathe koita niya jabe
+pos,"pos  Ata koto jone nite parbe
+",jone nite parbe,jone nite parbe
+pos,"pos  Goto Kal akta paici..tao abr late a....aj abr..
+",goto kal akta paicitao abr late aaj abr,goto kal akta paicitao abr late aaj abr
+pos,"pos  free delivery kbe asbe
+",free delivery asbe,free delivery asbe
+neg,"neg  Live a paina
+",live paina,live paina
+pos,"pos  Free delivery kokhon?
+",free delivery kokhon,free delivery kokhon
+neg,"neg  Vai, Amer order delivery Korra date celo 7-10 December er modaea. But Akon oo delivery Pai ni.
+",amer order delivery korra date celo december modaea akon oo delivery ni,amer order delivery korra date celo december modaea akon oo delivery ni
+neg,"neg  Kisoy to paina
+",kisoy paina,kisoy paina
+neg,"neg  Kivabe shak kore bujhi na tw
+",kivabe shak kore bujhi na tw,kivabe shak kore bujhi na tw
+pos,"pos  Ager price to show kortse
+",ager price show kortse,ager price show kortse
+pos,"pos  Cart hoy ager price ey
+",cart hoy ager price ey,cart hoy ager price ey
+pos,"pos  Onugroho kore apnar onushondhan ti bistarito bhabe amader shathe share korun, apnake shohojogita korar shujog din.
+",onugroho kore apnar onushondhan bistarito bhabe amader shathe share korun apnake shohojogita korar shujog din,onugroho kore apnar onushondhan bistarito bhabe amader shathe share korun apnake shohojogita korar shujog din
+neg,"neg  30s tei shes b*l dawÊ
+",s tei shes bl dawê,s tei shes bl dawê
+pos,"pos  ami to 2 ta pailam
+",pailam,pailam
+pos,"pos  Sada sada kala kala gan sunte chai
+",sada sada kala kala gan sunte chai,sada sada kala kala gan sunte chai
+pos,"pos  Hawa movie ta chilo e bochore amar deka sera movie..best wishes for Chonchol Chowdhory
+",hawa movie chilo bochore amar deka sera moviebest wishes for chonchol chowdhory,hawa movie chilo bochore amar deka sera moviebest wishes for chonchol chowdhory
+pos,"pos  jodio pam tobua aram
+",jodio pam tobua aram,jodio pam tobua aram
+pos,"pos  Sada sada kala kala daraz gift dibe vala
+",sada sada kala kala daraz gift dibe vala,sada sada kala kala daraz gift dibe vala
+pos,"pos  Chanchal vai mobile cai
+",chanchal mobile cai,chanchal mobile cai
+ntr,"ntr  Amr mobile lagbe den
+",amr mobile lagbe den,amr mobile lagbe den
+pos,"pos  Love you daraz
+",love you daraz,love you daraz
+pos,"pos  Ar kono den comen korbo na.... Kono den gift pilam na
+",kono den comen korbo na kono den gift pilam na,kono den comen korbo na kono den gift pilam na
+pos,"pos  Sona rupa longker gora song ta sei dada
+",sona rupa longker gora song dada,sona rupa longker gora song dada
+pos,"pos  Bijho nai bepar ta, Gift dao gift ekta, chanchal vai ase sathe, gift dibe hase hase
+",bijho bepar gift dao gift ekta chanchal ase sathe gift dibe hase hase,bijho bepar gift dao gift ekta chanchal ase sathe gift dibe hase hase
+neg,"neg  Vi prothom Theke dekhsi ektao gift dilen na!!!11.11 e ektao pain
+",prothom theke dekhsi ektao gift dilen na ektao pain,prothom theke dekhsi ektao gift dilen na ektao pain
+ntr,"ntr  Kivabe gift jutte parbo?
+",kivabe gift parbo,kivabe gift parbo
+pos,"pos  khida lagse vai chalu gift den
+",khida lagse chalu gift den,khida lagse chalu gift den
+neg,neg  Koto comment kore kono den kono gift pala,comment kore kono den kono gift pala,comment kore kono den kono gift pala
