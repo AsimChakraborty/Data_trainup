@@ -753,3 +753,90 @@ ntr  Aigula gojar maas  dekho
 pos  Onk vloo hobe apnr boi ta amrr asha....oder korcii.
 pos  Ami order disi kobe pabo boita vaiya
 ntr  Pritibi bolde jaibo kintu eita sombob hoibo na
+neg  2 dol ak sathay thakle desh er onnoti hobe but kakhno 2 dol ak hoba na
+ntr  Tumi jaikhana tarai aco amio oikhana darai chilam
+ntr  Apnar moto amio emn ajgobi icche tai vabi mile mishe thakle desh ta sotti sundor hoto
+neg  Milemishe churi 
+pos  ho vai right kotha bolcen
+ntr  sotty ee ki ata somvob
+ntr  Ashcilam vai koyek din age
+neg  Oi somoy ak sathe curi korto
+ntr  ami paini akhono
+ntr  Ho re vai
+ntr  Bhai ki akno sylhet ae acen?
+ntr  Motivation er r ak nam vaiya
+pos  Abbu apnar boi ta porar jonno wait korche khub
+pos  Viha desher bahire thaki in sha allah deshe isa akbar hoileo apner lekha boi ta parbo
+pos  Onk kosto korsen oi time manush gular jono
+pos  Ami neta chai
+pos  Order kore dechi..hate pawr opekkhai
+pos  vaiya onek onek dua o valobasah roilo apnar jonno
+pos  vaiya,,, pre-order confarm korlam love u vaiya
+pos  opekkhay silam boi ta
+pos  superhero vaiya
+pos  bhai kuno din kiso chaisi na ei boi ta gift koira la
+pos  Onk onk shuvo kamona, onk doa roilo vaiya tmr jonno.
+pos  Ey book ta anyhow amr dorkar . Jodi apnar autograph soho pay tahole to ami lucky. But link ta kaj korteche na.
+pos  January te published hobe dekhlam pre order done
+pos  shovokamona vaiya egiye Jan onek dur
+pos  Boi ta porar jonno w8 kortechi vaiya
+pos  Order confirm.... hat e paoyar jonno w8 kortechi... Inshallah 13tarik hat e pabo
+ntr  Kew gift kor
+ntr  oppkhai cilam
+pos  Future generation ei books ta porbe and inspiration pabe.
+pos  tmr pase darea thakar ktha chilo amr
+ntr  Ogo tmk onno karur sate dekle buker betr ta cin cin kore ute go..
+ntr  ogo tmi ki sotti onno karur hye jabe..
+ntr  Hotat deka holei ba ki ato ganer ki ace
+pos  tmr ar or jama r colour same that's mean tmi janta
+pos  Tmr hasi ta kintu khub misty via.... Gum ayr 12 ta bajbe aj
+ntr  Matching dress,abr uni post korse bird gift peyeche aj amader boka paiso
+pos  Pic ta dakhar sthe sthe Mon ta vange galo
+pos  apnr pase onno kono maiya ami soite partese nh
+neg  Valo...but apner pase kao k sojjo korte parbona
+ntr  Sudhu gaan e kintu onno kichu na
+pos  Suddenly dekha toh mone hosse na matching dress
+pos  Hothat koirao amr satheo to ektu dekha hoile vlo hoito vaia Amio sundor pic tultam ektu
+pos  tader 2jon er dress er colour ki bhabe ekrokom holo ta jante cawa amr mon
+neg  Buk ta fete jaitece maya tare tomer pashe dekhe
+ntr  Vaiya tumi to sob meyer Mon k cheka dila..koy tare samlaba ekhon
+ntr  Vaii abar gopone gopone prem trem choltace nahhh kii
+neg  aykhne sob apuder mon vanga comment dheke kanna paitase amr
+pos  Tarpor dheklm meyetar hair band ar moto amr o hair band ase Dheke khusi te chok muse filsi
+pos  jomoj vaia bon er moto lagtece. ..ceharar tmn mil na thakleo dress er mil ace 
+pos  Onk kosto lage ....onno meyer sate pic dakle
+pos  kichu ekta colteche
+pos  gaan gaoya manus gulo koto sundor hoy..
+pos  dujon e khub valogan koro amr khub pochonder 2 Jon e valoihbe.
+pos  Ekhon bujlam keno ekjon arek joner comments box eto tukur tukur
+pos  vaia tmi chad er bari rstnrt e kokhn ashco amk blte ami always oikhn e thki dekha hoto
+pos  Darun tobe prem koiren na tar jonno ami achi amare koiyen amio pure single gorib taw apnre ami onk vala pai sei Prothom gan Theke jokhon Picchi 
+pos  2 jonkei onk cute lagse
+pos  Hotath kore dekha! But dress er color match korlo kmne?
+ntr  Vaiya tomar dat gula abr mone hoy pore jasche sit a atto boro hasi ,
+pos  vai apnader dujonke besh manieche,,,kore phelen havy moja paben.
+pos  Amr akta poramorsho ase
+pos  Gan hoye jak ar dujon e ganer mayay bedhe falo nijder vai.. juri ta mondo hbe na
+pos  vai apnar sathe besh manaiche prostab ta diye.den
+neg  Pic ta deikha atto jole ken
+pos  Kobe j tmr r amr hotath dekha hbe 
+pos  face er onk ta mil ase ami fst e vai bon vbsilm
+pos  Apnar pase kono meye ke dekla rag hoy
+pos  Hotat dakha na bhaijan plan kore dakha like date ami age theke jantam tomader majhe kichu ekta ashe
+neg  Na na amar bograr pakhi onno kothao jete parena
+neg  kanna korish na kn??? dekh ki sob hocce
+ntr  eto kasakasi kn ettu dure darano jai na
+pos  tomra dekio abr na janai dup mairona kintu prem sagore
+neg  Vai tomader dekhe meyeder hinsha hocche
+pos  Akat ktha
+pos  nice couple " likha comment dekhte asha ami
+pos  Vai bon lage dekhte
+pos  Tomar hasita khoub sundhor
+pos  dolavai to arakjon er sate prem kore mone hoy
+pos  vaiya kemon acen and Apu kemon ace janaben kintu
+neg  Tui beta valo manush na. Sob account a knock kore tor sathe kotha bolte pari ni. Faul
+pos  Onak sondor doijon kk lagcy vaiya ata vabi holy sob caitay best jori hoby
+pos  Tmr sathe Hothat ekdin Tmr kerasher dekha hoiya jak
+pos  apnr hasi amr onkkkk valo lage,,,,,,,but Parsha er pashe haste dekhle onkkkkk kharap lage
+pos  Khobi valo hoy
+pos  Hero alom vai or gan oile bala oito baby come come come
